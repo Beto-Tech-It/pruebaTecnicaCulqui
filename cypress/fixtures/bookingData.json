@@ -1,0 +1,11 @@
+{
+  "firstname": "Humberto",
+  "lastname": "Palomino",
+  "totalprice": 350,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2026-02-13",
+    "checkout": "2026-02-18"
+  },
+  "additionalneeds": "Breakfast"
+}
